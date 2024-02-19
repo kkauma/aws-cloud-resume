@@ -77,6 +77,9 @@ export default function Main() {
 
         <h4 className="uofm">University of Minnesota</h4>
         <i>Bachelor of Arts in Economics</i>
+
+        <h4 className="aws-certs">Amazon Web Services</h4>
+        <i>AWS Certified Cloud Practitioner</i>
       </div>
 
       <div>

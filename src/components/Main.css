@@ -42,7 +42,8 @@ hr {
   margin-bottom: 5px;
 }
 
-.uofm {
+.uofm,
+.aws-certs {
   margin-top: 15px;
   font-size: 20px;
   margin-bottom: 0px;
