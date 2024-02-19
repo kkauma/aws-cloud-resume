@@ -12,27 +12,40 @@ export default function Main() {
         <h5 className="finance-manager">Finance Manager</h5>
         <h5 className="date">April 2023 - Present | Remote</h5>
         <ul className="finance-manager-content">
-          <li className="align-left">Write SQL queries in Snowflake</li>
           <li className="align-left">
-            Collaborate with the Director of Data and Senior Analytics Engineers
-            on various dashboards, giving everyone in the company greater
-            visibility into our key operating metrics
+            Create materials for our monthly earnings updates and quarterly
+            board decks to update investors on our key performance metrics and
+            company trends
           </li>
-          <li className="align-left">Build complex financial models</li>
+          <li className="align-left">
+            Develop complex financial models for our quarterly forecasts and
+            long range plans, which includes collaborating with members of our
+            product, engineering, and security teams to better understand
+            different business drivers
+          </li>
+          <li className="align-left">
+            Manage the reporting of our Pro business and variable spend related
+            to COGS, which includes creating summaries of key findings and
+            presenting analyses to executive leadership
+          </li>
         </ul>
         <h5 className="sfa-vercel">Senior Financial Analyst</h5>
         <h5 className="date">February 2023 - Present | Remote</h5>
         <ul className="sfa-vercel-content">
           <li className="align-left">
-            Complete materials for our board of directors
+            Developed a comprehensive financial summary file that allowed the
+            team to easily report on our main KPI's for our monthly investor and
+            earnings updates, saving hours for the team
           </li>
           <li className="align-left">
-            Present monthly summary of our Pro performance during business
-            reviews, which included our CEO, CTO, and other key executives
+            Collaborated extensively with data engineering to automate several
+            aspects of our Pro business, which included developing dashboards to
+            give greater visibility into key metrics for the entire company
           </li>
           <li className="align-left">
-            Collaborate with infrastructure engineers and product managers to
-            better understand cost drivers for our variable spend
+            Partnered cross-functionally with our infrastructure engineers to
+            help manage our variable spend and implement savings plans,
+            including but not limited to AWS, Datadog, and Tinybird
           </li>
         </ul>
 
