@@ -91,10 +91,10 @@ export default function Main() {
           <b>Languages:</b> JavaScript, Python, SQL, Java
         </p>
         <p className="technologies">
-          <b>Technologies:</b> AWS, Git, Postgres
+          <b>Technologies:</b> AWS, Git, Postgres, React
         </p>
         <p className="other">
-          <b>Other:</b> Data structures and algorithms
+          <b>Other:</b> Data Structures and Algorithms
         </p>
       </div>
 
