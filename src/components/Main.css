@@ -25,21 +25,25 @@
 .financial-consultant,
 .sfa-vercel,
 .sfa-uhg {
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
   font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
 }
 
 .finance-manager-content,
 .sfa-vercel-content,
 .fc-content,
-.sfa-uhg-content {
+.sfa-uhg-content,
+.project-content,
+.interests-content {
   margin-top: 5px;
 }
 
 hr {
   margin-top: 2px;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .uofm,

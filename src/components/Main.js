@@ -99,17 +99,17 @@ export default function Main() {
       <div>
         <h3 className="projects">Projects</h3>
         <hr />
-        <ul>
-          <li>Project #1</li>
-          <li>Project #2</li>
-          <li>Project #3</li>
+        <ul className="project-content">
+          <li>AWS Cloud Resume Project</li>
+          <li>Movie Comparison</li>
+          <li>Maze Game</li>
         </ul>
       </div>
 
       <div>
         <h3 className="interests">Interests</h3>
         <hr />
-        <ul>
+        <ul className="interests-content">
           <li>Golf, hockey, traveling, hiking, exercising</li>
         </ul>
       </div>
