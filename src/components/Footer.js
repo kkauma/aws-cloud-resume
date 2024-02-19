@@ -2,8 +2,8 @@ import "./Footer.css";
 
 export default function Footer() {
   return (
-    <div className="Footer">
-      <p>
+    <div className="footer">
+      <p className="visitor-count">
         Vister Count:{" "}
         <span>
           <b>7</b>

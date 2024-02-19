@@ -1,5 +1,9 @@
-.Footer {
+.footer {
   text-align: center;
-  background-color: lightgrey;
+  background-color: #0f52ba;
   padding: 1px;
+}
+
+.visitor-count {
+  color: whitesmoke;
 }
