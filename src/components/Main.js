@@ -4,12 +4,12 @@ export default function Main() {
   return (
     <div className="Main">
       <div>
-        <h3>Professional Experience</h3>
+        <h3 className="professional-experience">Professional Experience</h3>
         <hr />
 
-        <h4>Vercel</h4>
-        <h5>Finance Manager</h5>
-        <ul>
+        <h4 className="vercel">Vercel</h4>
+        <h5 className="finance-manager">Finance Manager</h5>
+        <ul className="finance-manager-content">
           <li>Write SQL queries in Snowflake</li>
           <li>
             Collaborate with the Director of Data and Senior Analytics Engineers
@@ -18,8 +18,8 @@ export default function Main() {
           </li>
           <li>Build complex financial models</li>
         </ul>
-        <h5>Senior Financial Analyst</h5>
-        <ul>
+        <h5 className="sfa-vercel">Senior Financial Analyst</h5>
+        <ul className="sfa-vercel-content">
           <li>Complete materials for our board of directors</li>
           <li>
             Present monthly summary of our Pro performance during business
@@ -31,9 +31,9 @@ export default function Main() {
           </li>
         </ul>
 
-        <h4>UnitedHealth Group</h4>
-        <h5>Financial Consultant</h5>
-        <ul>
+        <h4 className="uhg">UnitedHealth Group</h4>
+        <h5 className="financial-consultant">Financial Consultant</h5>
+        <ul className="fc-content">
           <li>
             Assist in forecasting financials for the Medicare & Retirement
             business, building financial models and decks for leaders that
@@ -50,8 +50,8 @@ export default function Main() {
             for over 200 different markets
           </li>
         </ul>
-        <h5>Senior Financial Analyst</h5>
-        <ul>
+        <h5 className="sfa-uhg">Senior Financial Analyst</h5>
+        <ul className="sfa-uhg-content">
           <li>
             Utlized Thomson Reuters Eikon and S&P Global Market Intelligence to
             analyze competitor financials, track M&A activity, and montior
@@ -70,31 +70,31 @@ export default function Main() {
       </div>
 
       <div>
-        <h3>Education and Certifications</h3>
+        <h3 className="education">Education and Certifications</h3>
         <hr />
-        <h4>University of St. Thomas</h4>
+        <h4 className="stthomas">University of St. Thomas</h4>
         <i>Bachelor of Business Administration in Finance</i>
 
-        <h4>University of Minnesota</h4>
+        <h4 className="uofm">University of Minnesota</h4>
         <i>Bachelor of Arts in Economics</i>
       </div>
 
       <div>
-        <h3>Technologies and Languages</h3>
+        <h3 className="tech">Technologies and Languages</h3>
         <hr />
-        <p>
+        <p className="languages">
           <b>Languages:</b> JavaScript, Python, SQL, Java
         </p>
-        <p>
+        <p className="technologies">
           <b>Technologies:</b> AWS, Git, Postgres
         </p>
-        <p>
+        <p className="other">
           <b>Other:</b> Data structures and algorithms
         </p>
       </div>
 
       <div>
-        <h3>Projects</h3>
+        <h3 className="projects">Projects</h3>
         <hr />
         <ul>
           <li>Project #1</li>
@@ -104,7 +104,8 @@ export default function Main() {
       </div>
 
       <div>
-        <h3>Interests</h3>
+        <h3 className="interests">Interests</h3>
+        <hr />
         <ul>
           <li>Golf, hockey, traveling, hiking, exercising</li>
         </ul>

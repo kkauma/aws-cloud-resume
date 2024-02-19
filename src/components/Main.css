@@ -3,3 +3,61 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.professional-experience,
+.education,
+.tech,
+.projects,
+.interests {
+  margin-bottom: 0px;
+  font-size: 24px;
+}
+
+.vercel,
+.stthomas,
+.uhg {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+
+.finance-manager,
+.financial-consultant,
+.sfa-vercel,
+.sfa-uhg {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+
+.finance-manager-content,
+.sfa-vercel-content,
+.fc-content,
+.sfa-uhg-content {
+  margin-top: 5px;
+}
+
+hr {
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.uofm {
+  margin-top: 15px;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.languages {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.technologies {
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
+.other {
+  margin-top: 12px;
+}

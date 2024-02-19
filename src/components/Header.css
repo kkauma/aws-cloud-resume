@@ -1,3 +1,28 @@
-.Header {
+.header {
   text-align: center;
+}
+
+h1 {
+  margin-bottom: 0px;
+  font-size: 36px;
+  margin-top: 60px;
+}
+
+.location {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.contact-info {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.linkedin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.github {
+  margin-top: 0px;
 }
