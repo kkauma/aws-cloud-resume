@@ -10,19 +10,14 @@ export default function Header() {
 
         <p className="location">Scottsdale, Arizona</p>
         <p className="contact-info">651-983-6096 | kylekauma@gmail.com</p>
-        <p className="linkedin">
-          <a href="https://www.linkedin.com/in/kylekauma/">LinkedIn</a>{" "}
-          <span>
-            <FontAwesomeIcon icon={faLinkedin} className="linkedin-logo" />
-          </span>
-        </p>
-        <p className="github">
-          <a href="https://github.com/kkauma">GitHub</a>
-        </p>
         <p className="social-media">
-          LinkedIn{" "}
-          <FontAwesomeIcon icon={faLinkedin} className="linkedin-logo" /> |
-          GitHub{" "}
+          <a href="https://www.linkedin.com/in/kylekauma/" target="_blank">
+            LinkedIn
+          </a>{" "}
+          <FontAwesomeIcon icon={faLinkedin} className="linkedin-logo" /> |{" "}
+          <a href="https://github.com/kkauma" target="_blank">
+            GitHub
+          </a>{" "}
           <FontAwesomeIcon icon={faSquareGithub} className="github-logo" />
         </p>
       </div>
