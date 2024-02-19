@@ -39,7 +39,7 @@
 .sfa-uhg-content,
 .project-content,
 .interests-content {
-  margin-top: 5px;
+  margin-top: 0px;
 }
 
 hr {
@@ -66,4 +66,8 @@ hr {
 
 .other {
   margin-top: 12px;
+}
+
+.align-left {
+  margin-left: -25px;
 }
